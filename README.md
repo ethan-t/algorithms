@@ -6,7 +6,7 @@ A few random algorithms written in Python as exercises.
 
 ### Data Structures
 
-- Stack (Not started)
+- Stack (Functional)
 - Queues (Not started)
 
 ### Sorting
