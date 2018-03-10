@@ -7,9 +7,9 @@ A few random algorithms written in Python as exercises.
 ### Data Structures
 
 - Stack (Functional)
-- Queues (Not started)
+- Queues (Functional)
 
 ### Sorting
 
-- Bubble Sort (Not started)
+- Bubble Sort (Started, in progress)
 - Merge Sort (Not started)
