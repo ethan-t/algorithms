@@ -11,5 +11,5 @@ A few random algorithms written in Python as exercises.
 
 ### Sorting
 
-- Bubble Sort (Started, in progress)
+- Bubble Sort (Functional)
 - Merge Sort (Not started)
