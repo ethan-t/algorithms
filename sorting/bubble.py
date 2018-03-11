@@ -17,11 +17,11 @@
 
 def bubbleSort(lst):
     n = len(lst)
-    swapped = False
-    while not swapped:
-        for i in range(1, n):
-            swapped = False
-            if lst[i-1] > lst[i]:
-                lst[i], lst[i-1] = lst[i-1], lst[i]
-                swapped = True
+    done = False
+    while not done:
+        done = True
+        for i in range(0, n-1):
+            if lst[i] > lst[i + 1]:
+                lst[i], lst[i+1] = lst[i+1], lst[i]
+                done = False
     return lst
