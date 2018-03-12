@@ -8,8 +8,3 @@ A few random algorithms written in Python as exercises.
 
 - Stack (Functional, used [here](https://github.com/ethan-t/polish-notation-calculator))
 - Queues (Functional)
-
-### Sorting
-
-- Bubble Sort (Functional)
-- Merge Sort (Not started)
